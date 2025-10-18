@@ -3052,6 +3052,9 @@
         Dead:
           Base: dead
     - type: MobThresholds
+      thresholds:
+        0: Alive
+        180: Dead
     - type: SolutionRegeneration
       solution: melee
       generated:
@@ -3063,9 +3066,6 @@
     - type: MeleeChemicalInjector
       transferAmount: 1.5
       solution: melee
-      thresholds:
-        0: Alive
-        180: Dead
     - type: Spider
       webPrototype: SpiderWebClown
     - type: MeleeWeapon
