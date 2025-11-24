@@ -1202,3 +1202,9 @@ Entries:
       message: Fixed PassiveDamage so that it works properly with woundmed.
   id: 141
   time: '2025-11-23T19:13:22.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Antag spawn rates
+  id: 142
+  time: '2025-11-24T20:32:02.0000000+00:00'
