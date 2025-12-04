@@ -590,16 +590,17 @@
   categories:
   - UplinkWearables
 
-- type: listing
-  id: UplinkSecondSkinSyndicate
-  name: uplink-second-skin-name
-  description: uplink-second-skin-desc
-  icon: { sprite: _Goobstation/Clothing/OuterClothing/second_skin.rsi, state: action }
-  productEntity: SecondSkinSyndicate
-  cost:
-    Telecrystal: 10
-  categories:
-  - UplinkWearables
+# Omu no Second Skin
+#- type: listing
+#  id: UplinkSecondSkinSyndicate
+#  name: uplink-second-skin-name
+#  description: uplink-second-skin-desc
+#  icon: { sprite: _Goobstation/Clothing/OuterClothing/second_skin.rsi, state: action }
+#  productEntity: SecondSkinSyndicate
+#  cost:
+#    Telecrystal: 10
+#  categories:
+#  - UplinkWearables
 
 - type: listing
   id: UplinkClothingHandsGlovesGuerrilla

@@ -132,7 +132,7 @@
     - id: BoxEncryptionKeyPrisoner #Delta-V
     - id: BoxPrisonerHeadset # Einstein Engines
     - id: SecurityMegaphone # goob - loudspeakers
-    - id: SecondSkinSecurity # Goobstation
+    # Omu no second skin - id: SecondSkinSecurity # Goobstation
 
 - type: entityTable
   id: FillLockerWardenHarduit
